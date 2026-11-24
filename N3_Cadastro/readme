@@ -1,0 +1,21 @@
+Portfólio Acadêmico - Atividade Avaliativa N3
+Este projeto é um demonstrativo de adição, edição, exclusão, pesquisa e lista de pessoas baseado em nome, idade, e-mail, e cidade. Este é o trabalho da N3 no curso de Análise e Desenvolvimento de Sistemas da FASIPE JET.
+
+O projeto foi construído utilizando uma base em json e uso de python para formular os perfis e programar a forma de criação e pesquisa de perfis.
+
+Tecnologias Utilizadas:
+
+Python: Estrutura de criação, edição, procuração e exclusão de perfis;
+
+Json: Estrutura que registra os perfis ordenadamente de acordo com as suas características específicas.
+
+
+Acadêmicos: Gabriel Regelin Castro & Luiz Gustavo Schirmer Hammes
+
+Instituição: Fasipe Jet
+
+Curso: Análise e Desenvolvimento de Sistemas - ADS
+
+Disciplina: Estrutura de Dados
+
+OBS: Este trabalho tem fins puramente acadêmicos.
